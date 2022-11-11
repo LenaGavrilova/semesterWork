@@ -1,0 +1,263 @@
+body {
+    background: #dad8d11f;
+    font-family: Bahnschrift, serif;
+    height: auto;
+    width: auto;
+}
+
+/*footer css*/
+.footerClass {
+
+    background: #dddddd6b;
+
+}
+
+.about {
+    position: relative;
+    top: 15px;
+
+
+}
+
+.contact {
+    position: relative;
+    top: 5px;
+
+}
+
+.back {
+    position: relative;
+    text-align: center;
+}
+
+/*menu(header) css*/
+
+.navigation {
+    background: #767575ad;
+
+}
+
+.welcomeText {
+    background: #dddddd6b;
+}
+
+.brand {
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    right: 350px;
+
+}
+
+.navbar {
+    position: relative;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.nav-link2 {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.nav-link3{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+
+.inputSearch {
+    position: relative;
+
+    display: flex;
+    left: 396px;
+    top: -145px
+
+}
+
+.nav-item {
+    position: relative;
+    left: 50px;
+    top: -65px;
+}
+.nav-item2{
+    position: relative;
+    left: 600px;
+    top: -65px;
+}
+.nav-item3{
+    position: relative;
+    left: 450px;
+    top: -65px;
+}
+.formSearch {
+
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 6px 8px rgb(0 0 0);
+
+}
+
+.btn {
+    border-radius: 10px;
+    box-shadow: 0 6px 8px rgb(0 0 0);
+}
+
+.btnCart {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    position: relative;
+    left: 1300px;
+    top: -173px;
+
+}
+
+.welcomeText {
+    position: relative;
+    text-align: center;
+}
+
+
+/*login css*/
+
+
+.log {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 4px #767575;
+    padding: 10px 20px 10px 20px;
+    margin: 20px auto;
+    width: 500px;
+    height: 330px;
+
+}
+
+.message {
+    color: #dd5353;
+}
+
+.loginInput {
+    position: relative;
+
+}
+
+.passwordInput {
+    position: relative;
+    top: 15px;
+    right: 15px;
+}
+
+.logInput {
+    border-radius: 10px;
+    box-shadow: 0 3px 5px rgb(0 0 0);
+}
+
+.signIn {
+    position: relative;
+    top: 40px;
+}
+
+.newUser {
+    position: relative;
+    top: 50px;
+
+
+}
+
+.back {
+    position: relative;
+    top: 130px;
+}
+
+/*reg css*/
+.reg {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 4px #767575;
+    padding: 10px 20px 10px 20px;
+    margin: 20px auto;
+    width: 500px;
+    height: 510px;
+}
+
+.emailInput {
+    position: relative;
+    top: 10px;
+    left: 1px;
+}
+
+.countryInput {
+    position: relative;
+    top: 20px;
+    right: 5px;
+}
+
+.passwordInput {
+    position: relative;
+    top: 30px;
+
+}
+
+.repasswordInput {
+    position: relative;
+    top: 40px;
+    right: 37px;
+}
+
+.signUp {
+    position: relative;
+    top: 60px;
+}
+
+.oldUser {
+    position: relative;
+    top: 70px;
+}
+
+/*detail css*/
+
+.gallery-wrap .img-big-wrap img {
+    height: 450px;
+    width: auto;
+    display: inline-block;
+    cursor: zoom-in;
+}
+
+
+.gallery-wrap .img-small-wrap .item-gallery {
+    width: 60px;
+    height: 60px;
+    border: 1px solid #ddd;
+    margin: 7px 2px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.gallery-wrap .img-small-wrap {
+    text-align: center;
+}
+
+.gallery-wrap .img-small-wrap img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    cursor: zoom-in;
+}
+
+.img-big-wrap img {
+    width: 100% !important;
+    height: auto !important;
+}
+
